@@ -2754,7 +2754,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:100px;
+  width:115px;
   height:60px;
   background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
   background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
@@ -2773,21 +2773,21 @@
   position:absolute;
   left:134px;
   top:20px;
-  width:100px;
+  width:115px;
   height:60px;
 }
 #u240_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:12px;
-  width:96px;
+  top:21px;
+  width:111px;
   word-wrap:break-word;
 }
 #u240_ref {
   border-width:0px;
   position:absolute;
-  left:226px;
+  left:241px;
   top:70px;
   width:1px;
   height:1px;
