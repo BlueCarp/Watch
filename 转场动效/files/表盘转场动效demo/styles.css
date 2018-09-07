@@ -323,6 +323,7 @@
   top:480px;
   width:200px;
   height:1px;
+  opacity:0;
 }
 #u11_text {
   border-width:0px;
@@ -348,6 +349,7 @@
   top:600px;
   width:200px;
   height:1px;
+  opacity:0;
 }
 #u12_text {
   border-width:0px;
@@ -548,6 +550,7 @@
   top:450px;
   width:1px;
   height:200px;
+  opacity:0;
 }
 #u17_text {
   border-width:0px;
@@ -573,6 +576,7 @@
   top:450px;
   width:1px;
   height:200px;
+  opacity:0;
 }
 #u18_text {
   border-width:0px;
