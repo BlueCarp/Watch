@@ -161,16 +161,6 @@
 #u5 {
   border-width:0px;
   position:absolute;
-  left:85px;
-  top:85px;
-  width:190px;
-  height:190px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u6 {
-  border-width:0px;
-  position:absolute;
   left:159px;
   top:4px;
   width:42px;
@@ -178,84 +168,74 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u6_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:190px;
+  height:190px;
+}
+#u6 {
+  border-width:0px;
+  position:absolute;
+  left:85px;
+  top:86px;
+  width:190px;
+  height:190px;
+}
+#u6_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:190px;
+  height:190px;
+}
 #u7 {
   border-width:0px;
   position:absolute;
-  left:100px;
-  top:360px;
-  width:360px;
-  height:360px;
-  overflow:hidden;
+  left:85px;
+  top:86px;
+  width:190px;
+  height:190px;
 }
-#u7_state0 {
+#u7_text {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:360px;
-  height:360px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
-  background-image:url('../../images/表盘转场动效demo/u7_state0.png');
-  background-position:left top;
-  background-repeat:no-repeat;
-  background-attachment:scroll;
-  background-size:cover;
-}
-#u7_state0_content {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
 #u8 {
   border-width:0px;
   position:absolute;
-  left:100px;
-  top:360px;
-  width:360px;
-  height:360px;
+  left:85px;
+  top:86px;
+  width:190px;
+  height:190px;
   overflow:hidden;
-  touch-action:none;
-}
-#u8_state0 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:360px;
-  height:360px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
-  background-image:url('../../images/表盘转场动效demo/u8_state0.png');
-  background-position:left top;
-  background-repeat:no-repeat;
-  background-attachment:scroll;
-  background-size:cover;
-}
-#u8_state0_content {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
+  background-image:url('../../resources/images/transparent.gif');
 }
 #u9 {
   border-width:0px;
   position:absolute;
   left:100px;
-  top:0px;
+  top:360px;
   width:360px;
   height:360px;
   overflow:hidden;
-  touch-action:none;
 }
 #u9_state0 {
   border-width:0px;
@@ -282,174 +262,17 @@
   width:1px;
   height:1px;
 }
-#u10_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:201px;
-  height:2px;
-}
 #u10 {
   border-width:0px;
   position:absolute;
-  left:180px;
-  top:480px;
-  width:200px;
-  height:1px;
-  opacity:0;
-}
-#u10_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u11_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:201px;
-  height:2px;
-}
-#u11 {
-  border-width:0px;
-  position:absolute;
-  left:180px;
-  top:600px;
-  width:200px;
-  height:1px;
-  opacity:0;
-}
-#u11_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u12_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  height:40px;
-  background:inherit;
-  background-color:rgba(22, 155, 213, 1);
-  border:none;
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u12 {
-  border-width:0px;
-  position:absolute;
-  left:15px;
-  top:379px;
-  width:57px;
-  height:40px;
-}
-#u12_div.selected {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  height:40px;
-  background:inherit;
-  background-color:rgba(255, 153, 102, 1);
-  border:none;
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u12.selected {
-}
-#u12_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:12px;
-  width:53px;
-  word-wrap:break-word;
-}
-#u13_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  height:40px;
-  background:inherit;
-  background-color:rgba(22, 155, 213, 1);
-  border:none;
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u13 {
-  border-width:0px;
-  position:absolute;
-  left:15px;
-  top:441px;
-  width:57px;
-  height:40px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u13_div.selected {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  height:40px;
-  background:inherit;
-  background-color:rgba(255, 153, 102, 1);
-  border:none;
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u13.selected {
-}
-#u13_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:11px;
-  width:53px;
-  word-wrap:break-word;
-}
-#u14 {
-  border-width:0px;
-  position:absolute;
   left:100px;
-  top:720px;
+  top:360px;
   width:360px;
   height:360px;
   overflow:hidden;
   touch-action:none;
 }
-#u14_state0 {
+#u10_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -460,13 +283,13 @@
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
-  background-image:url('../../images/表盘转场动效demo/u14_state0.png');
+  background-image:url('../../images/表盘转场动效demo/u6.png');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
   background-size:cover;
 }
-#u14_state0_content {
+#u10_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -474,24 +297,59 @@
   width:1px;
   height:1px;
 }
-#u15_img {
+#u11 {
+  border-width:0px;
+  position:absolute;
+  left:100px;
+  top:0px;
+  width:360px;
+  height:360px;
+  overflow:hidden;
+  touch-action:none;
+}
+#u11_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2px;
-  height:201px;
+  width:360px;
+  height:360px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:url('../../images/表盘转场动效demo/u11_state0.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:cover;
 }
-#u15 {
+#u11_state0_content {
   border-width:0px;
   position:absolute;
-  left:230px;
-  top:450px;
+  left:0px;
+  top:0px;
   width:1px;
-  height:200px;
+  height:1px;
+}
+#u12_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:2px;
+}
+#u12 {
+  border-width:0px;
+  position:absolute;
+  left:180px;
+  top:480px;
+  width:200px;
+  height:1px;
   opacity:0;
 }
-#u15_text {
+#u12_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -500,24 +358,24 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u16_img {
+#u13_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2px;
-  height:201px;
+  width:201px;
+  height:2px;
 }
-#u16 {
+#u13 {
   border-width:0px;
   position:absolute;
-  left:350px;
-  top:450px;
-  width:1px;
-  height:200px;
+  left:180px;
+  top:600px;
+  width:200px;
+  height:1px;
   opacity:0;
 }
-#u16_text {
+#u13_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -526,7 +384,55 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u17_div {
+#u14_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u14 {
+  border-width:0px;
+  position:absolute;
+  left:15px;
+  top:379px;
+  width:57px;
+  height:40px;
+}
+#u14_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 153, 102, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u14.selected {
+}
+#u14_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:53px;
+  word-wrap:break-word;
+}
+#u15_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -544,18 +450,18 @@
   font-weight:400;
   font-style:normal;
 }
-#u17 {
+#u15 {
   border-width:0px;
   position:absolute;
   left:15px;
-  top:503px;
+  top:441px;
   width:57px;
   height:40px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
-#u17_div.selected {
+#u15_div.selected {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -573,9 +479,9 @@
   font-weight:400;
   font-style:normal;
 }
-#u17.selected {
+#u15.selected {
 }
-#u17_text {
+#u15_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -583,28 +489,83 @@
   width:53px;
   word-wrap:break-word;
 }
-#u18_div {
+#u16 {
+  border-width:0px;
+  position:absolute;
+  left:100px;
+  top:720px;
+  width:360px;
+  height:360px;
+  overflow:hidden;
+  touch-action:none;
+}
+#u16_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:360px;
   height:360px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:url('../../images/表盘转场动效demo/u16_state0.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:cover;
+}
+#u16_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u17_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:2px;
+  height:201px;
+}
+#u17 {
+  border-width:0px;
+  position:absolute;
+  left:230px;
+  top:450px;
+  width:1px;
+  height:200px;
+  opacity:0;
+}
+#u17_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u18_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:2px;
+  height:201px;
 }
 #u18 {
   border-width:0px;
   position:absolute;
-  left:100px;
-  top:0px;
-  width:360px;
-  height:360px;
+  left:350px;
+  top:450px;
+  width:1px;
+  height:200px;
+  opacity:0;
 }
 #u18_text {
   border-width:0px;
@@ -620,31 +581,56 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:360px;
-  height:360px;
+  width:57px;
+  height:40px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(22, 155, 213, 1);
   border:none;
-  border-radius:0px;
+  border-radius:5px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u19 {
   border-width:0px;
   position:absolute;
-  left:460px;
-  top:360px;
-  width:360px;
-  height:360px;
+  left:15px;
+  top:503px;
+  width:57px;
+  height:40px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
-#u19_text {
+#u19_div.selected {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:0px;
-  visibility:hidden;
+  width:57px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 153, 102, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u19.selected {
+}
+#u19_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:11px;
+  width:53px;
   word-wrap:break-word;
 }
 #u20_div {
@@ -666,11 +652,75 @@
   border-width:0px;
   position:absolute;
   left:100px;
-  top:720px;
+  top:0px;
   width:360px;
   height:360px;
 }
 #u20_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u21_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:360px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u21 {
+  border-width:0px;
+  position:absolute;
+  left:460px;
+  top:360px;
+  width:360px;
+  height:360px;
+}
+#u21_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u22_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:360px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u22 {
+  border-width:0px;
+  position:absolute;
+  left:100px;
+  top:720px;
+  width:360px;
+  height:360px;
+}
+#u22_text {
   border-width:0px;
   position:absolute;
   left:0px;
