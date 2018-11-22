@@ -93,6 +93,13 @@
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
 ._流程形状 {
 }
 .table_cell {
@@ -106,6 +113,9 @@
 .snapshot {
 }
 .sticky_1 {
+  text-align:left;
+}
+.sticky_3 {
   text-align:left;
 }
 .flow_shape {
@@ -201,4 +211,7 @@
   color:#666666;
 }
 .button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
